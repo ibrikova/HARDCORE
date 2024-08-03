@@ -1,1 +1,1 @@
-# HARDCORE
+# Initial Commit
